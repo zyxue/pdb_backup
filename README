@@ -1,1 +1,7 @@
-pdb files that I created in pymol
+Here includes pdb files that I created in pymol
+
+use ___create_peptide.pml as a reference on how to build a structure from
+pymol.
+
+sq: sequence
+sr: singe residue
